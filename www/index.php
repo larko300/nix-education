@@ -13,7 +13,7 @@
         <div class="header">header</div>
         <div class="nav">
             <ul>
-                <li><a href="">Lesson 1</a></li>
+                <li><a href="multiplication_table.php">Lesson 1</a></li>
                 <li><a href="">Lesson 2</a></li>
                 <li><a href="">Lesson 3</a></li>
             </ul>
