@@ -15,7 +15,7 @@
             <ul>
                 <li><a href="multiplication_table.php">Lesson 1</a></li>
                 <li><a href="paint_multiplication_table.php">Lesson 2</a></li>
-                <li><a href="">Lesson 3</a></li>
+                <li><a href="reverse.php">Lesson 3</a></li>
             </ul>
         </div>
         <div class="container">
